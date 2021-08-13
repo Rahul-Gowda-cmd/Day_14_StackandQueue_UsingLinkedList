@@ -1,0 +1,12 @@
+C:\Users\HP\csharp\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.exe
+C:\Users\HP\csharp\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.deps.json
+C:\Users\HP\csharp\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.runtimeconfig.json
+C:\Users\HP\csharp\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.runtimeconfig.dev.json
+C:\Users\HP\csharp\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.dll
+C:\Users\HP\csharp\StackandQueue\StackandQueue\bin\Debug\netcoreapp3.1\StackandQueue.pdb
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.AssemblyInfo.cs
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.dll
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.pdb
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.genruntimeconfig.cache
