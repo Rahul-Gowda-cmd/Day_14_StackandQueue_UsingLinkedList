@@ -10,3 +10,4 @@ C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQ
 C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.dll
 C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.pdb
 C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.genruntimeconfig.cache
+C:\Users\HP\csharp\StackandQueue\StackandQueue\obj\Debug\netcoreapp3.1\StackandQueue.csproj.AssemblyReference.cache
